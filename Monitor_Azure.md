@@ -64,8 +64,3 @@ Compartilhar conhecimento de forma prática para ajudar profissionais a:
 
 Sinta-se à vontade para contribuir com exemplos, ajustes, correções ou novos conteúdos via Pull Requests!
 
----
-
-## 📄 Licença
-
-Este repositório está licenciado sob a [MIT License](LICENSE).
